@@ -1,0 +1,9 @@
+tile.DragonObelisk.name=Dragon Obelisk
+tile.GenericObelisk.name=Obelisk
+
+item.AbnormalEgg.name=Abnormal Egg
+item.CookedAbnormalEgg.name=Cooked Abnormal Egg
+item.CookedZombieFlesh.name=Cooked Zombie Flesh
+item.StrangeEgg.name=Strange Egg
+
+item.CookedAbnormalEgg.lore=Don't Eat This
